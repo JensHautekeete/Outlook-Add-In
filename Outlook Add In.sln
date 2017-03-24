@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAddIn_Test", "OutlookAddIn_Test\OutlookAddIn_Test.csproj", "{16FD685C-5CF1-4227-9B46-C79E62814254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformAddIn_Test", "PlatformAddIn_Test\PlatformAddIn_Test.csproj", "{FE04ACC3-3A4E-4A76-9F56-72B6BAA337A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16FD685C-5CF1-4227-9B46-C79E62814254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FD685C-5CF1-4227-9B46-C79E62814254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FD685C-5CF1-4227-9B46-C79E62814254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FD685C-5CF1-4227-9B46-C79E62814254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE04ACC3-3A4E-4A76-9F56-72B6BAA337A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE04ACC3-3A4E-4A76-9F56-72B6BAA337A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE04ACC3-3A4E-4A76-9F56-72B6BAA337A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE04ACC3-3A4E-4A76-9F56-72B6BAA337A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
